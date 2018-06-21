@@ -1,0 +1,19 @@
+{
+  "name": "@dillonchr/cryptonics",
+  "version": "1.0.0",
+  "description": "very weak string encoding for feeling like a super spy",
+  "main": "cryptonics.js",
+  "scripts": {
+    "test": "echo 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillonchr/cryptonics.git"
+  },
+  "author": "@dillonchr",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/dillonchr/cryptonics/issues"
+  },
+  "homepage": "https://github.com/dillonchr/cryptonics#readme"
+}
