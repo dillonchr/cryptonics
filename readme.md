@@ -13,6 +13,6 @@ You've got two options. Encrypt and decrypt. They both behave the same way just 
 const cryptonics = require('@dillonchr/cryptonics');
 const secret = cryptonics.encrypt(5, 'hey');
 //  results in 'gBup'
-const plainText = cryptonics.decrypt(5, 'gBup');
+const plainText = cryptonics.decrypt(5, secret);
 //  results back in 'hey'
 ```
